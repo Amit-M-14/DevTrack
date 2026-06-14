@@ -1,4 +1,3 @@
-````md
 # DevTrack | Developer Task Management Dashboard
 
 A full-stack, relational task management dashboard engineered specifically for developers. DevTrack is designed as a streamlined, lightweight alternative to tools like Jira, Linear, and Trello, enabling users to organize projects, manage engineering tickets, and track development workflows with a clean and efficient interface.
