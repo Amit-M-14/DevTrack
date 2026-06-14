@@ -227,6 +227,3 @@ DevTrack was built around three core principles:
 * **Speed** – Fast interactions and minimal UI clutter.
 * **Clarity** – Focus on tasks and projects without unnecessary complexity.
 * **Developer Experience** – Strong typing, modular architecture, and maintainable code.
-
-```
-```
